@@ -52,20 +52,6 @@ A new column is created:
 * **Database:** SQLite
 * **Model:** Random Forest Classifier
 
----
-
-## 📁 Project Structure
-
-```
-Student-Performance-Prediction/
-│
-├── data/
-│   └── students.csv
-├── models/
-│   └── model.pkl
-├── app.py
-├── users.db
-├── requirements.txt
 └── README.md
 ## ⚙️ Installation & Setup
 ### 1️⃣ Clone the repository
